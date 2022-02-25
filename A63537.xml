@@ -1,0 +1,2729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true list of the knights, citizens and burgesses of the Parliament that met at Westminster the 20th of March, 1689/90. As they have been return'd into the Crown-Office in Chancery Published by authority. Note, that those that have this mark *, were not members of the late Parliament.</title>
+            <title>Lists. 1690-03-20.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63537</idno>
+            <idno type="STC">Wing T2727</idno>
+            <idno type="STC">ESTC R205832</idno>
+            <idno type="EEBO-CITATION">99825369</idno>
+            <idno type="PROQUEST">99825369</idno>
+            <idno type="VID">29750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1859:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true list of the knights, citizens and burgesses of the Parliament that met at Westminster the 20th of March, 1689/90. As they have been return'd into the Crown-Office in Chancery Published by authority. Note, that those that have this mark *, were not members of the late Parliament.</title>
+                  <title>Lists. 1690-03-20.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy: printed by Edward Jones; and sold by Richard Baldwin in the Old-Bayly. MDCXC. Price 2 d,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Registers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_Members_of_Parliament">
+            <pb facs="tcp:29750:1"/>
+            <head>True LIST of the Knights, Citizens and Burgeſſes of the Parliament. That met at <hi>Weſtminiſter</hi> the 20<hi rend="sup">th</hi> of <hi>March,</hi> 1689/90. As they have been Return'd into the <hi>Crown-Office</hi> in <hi>Chancery.</hi>
+            </head>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <label>Note</label> that thoſe that have this Mark *, were not Members of the late <hi>PARLIAMENT.</hi>
+            </p>
+            <list>
+               <head>Bedfordſhire 4.</head>
+               <item>
+                  <hi>THE Honourable</hi> Edward Ruſſel <hi>Eſq;</hi>
+               </item>
+               <item>* Thomas Browne <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Town</hi> of Bedford.
+<list>
+                     <item>* Sir Will. Francklin <hi>Knt.</hi>
+                     </item>
+                     <item>Thomas Hillerſdon <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Hillerſdon <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Chriſtie <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Berks 9.</head>
+               <item>
+                  <hi>Sir</hi> Henry Winchcombe <hi>Bar.</hi>
+               </item>
+               <item>* <hi>Sir</hi> Humfrey Forſter <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Borough of</hi> New-Windſor.
+<list>
+                     <item>* <hi>Sir</hi> Chriſtopher Wren <hi>Knt.</hi>
+                     </item>
+                     <item>* Baptiſt May <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Reading.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Rich <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Hen. Fane <hi>Knt. of the Bath.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> VVallingford.
+<list>
+                     <item>William Jennens <hi>Eſq.</hi>
+                     </item>
+                     <item>* John Wallis <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Abington.
+<list>
+                     <item>* Symon Harcourt <hi>Eſq.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Bucks 14.</head>
+               <item>
+                  <hi>The Right Honourable</hi> Tho<g ref="char:EOLhyphen"/>mas Wharton <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>The Right Honourable</hi> Richard Hampden <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Town of</hi> Buckingham.
+<list>
+                     <item>
+                        <hi>Sir</hi> Richard Temple <hi>Knight and Baronet.</hi>
+                     </item>
+                     <item>* Alexander Denton <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Chipping-Wicomb.
+<list>
+                     <item>William Jephſon <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Lewes <hi>Jun. Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Aylisbury.
+<list>
+                     <item>
+                        <hi>Sir</hi> Thomas Lee <hi>Bar.</hi>
+                     </item>
+                     <item>Thomas Lee <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Agmondeſham.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Drake <hi>Knt.</hi>
+                     </item>
+                     <item>Edmond Waller <hi>of</hi> Beconsfield <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> VVendover.
+<list>
+                     <item>Richard Beake <hi>Eſq;</hi>
+                     </item>
+                     <item>* John Backwell <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Great Marlow.
+<list>
+                     <item>* James Chaſe <hi>Eſq;</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> Will. Whitelocke <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Cambridge 6.</head>
+               <item>
+                  <hi>Sir</hi> Levinus Bennet <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Robert Cotton <hi>Knt.</hi>
+               </item>
+               <item>
+                  <hi>Univerſity of</hi> Cambridge.
+<list>
+                     <item>
+                        <hi>Sir</hi> Robert Sawyer <hi>Knt.</hi>
+                     </item>
+                     <item>* <hi>The Honourable</hi> Edward Finch <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Cambridge.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Cotton <hi>Bar.</hi>
+                     </item>
+                     <item>* Granado Pigott <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Cheſter 4.</head>
+               <item>
+                  <hi>Sir</hi> John Mainwaring <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Robert Cotton <hi>Knt.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Cheſter.
+<list>
+                     <item>* <hi>Sir</hi> Thomas Groſvenor <hi>Bar.</hi>
+                     </item>
+                     <item>* Richard Leving <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Cornwal 44.</head>
+               <item>
+                  <hi>The Honourable</hi> Francis Ro<g ref="char:EOLhyphen"/>berts <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>The Right Honourable</hi> Hugh Boſcowen <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Dunhivid, <hi>alias</hi> Launceſton.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> William Harbord <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>The Honourable</hi> Bernard Granville <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Leskard.
+<list>
+                     <item>
+                        <hi>Sir</hi> Bourchier Wray <hi>Knight of the Bath, and Bar.</hi>
+                     </item>
+                     <item>* Emanuel Pyper <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Leſt withiel.
+<list>
+                     <item>* <hi>Sir</hi> Bevill Grenville <hi>Knt.</hi>
+                     </item>
+                     <item>Walter Kendall <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Truro.
+<list>
+                     <item>
+                        <hi>Sir</hi> Henry Aſhurſt <hi>Bar.</hi>
+                     </item>
+                     <item>Henry Vincent <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Bodmin.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Cutler <hi>Knt.</hi> &amp; <hi>Bar.</hi>
+                     </item>
+                     <item>Nicholas Glynn <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Helſton.
+<list>
+                     <item>
+                        <hi>Sir</hi> John St. Aubin <hi>Bar.</hi>
+                     </item>
+                     <item>Chatles Godolphin <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Saltaſh.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Carew <hi>Bar.</hi>
+                     </item>
+                     <item>* Richard Carew <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Gamelford.
+<list>
+                     <item>Ambroſe Manaton <hi>Eſq;</hi>
+                     </item>
+                     <item>Henry Manaton <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Port-Higham, <hi>alias</hi> VVeſtlow.
+<list>
+                     <item>Edward Seymour <hi>Eſq;</hi>
+                     </item>
+                     <item>Jonathan Trelawny <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Grampound.
+<list>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ohn Tanner <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>alter Vincent <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Eaſtlow.
+<list>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>harles Trelawny <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enry Trelawny <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Penryn.
+<list>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>amuel Rolle <hi>Eſq;</hi>
+                     </item>
+                     <item>Alexander Penda<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>is <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Tregony.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Tremaine <hi>Knight, Serjeant at Law.</hi>
+                     </item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ugh Forteſcue <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <!-- column 2 -->
+               <item>
+                  <hi>Borough of</hi> Boſſiny.
+<list>
+                     <item>* Samuel Travers <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Peter Colleton <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of St.</hi> Ives.
+<list>
+                     <item>James Praed <hi>Eſq;</hi>
+                     </item>
+                     <item>* William Harris <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Foway.
+<list>
+                     <item>Jonathan Raſhleigh <hi>Eſq;</hi>
+                     </item>
+                     <item>Shadrach Vincent <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of St.</hi> Germans.
+<list>
+                     <item>Daniel Elliot <hi>Eſq;</hi>
+                     </item>
+                     <item>* Henry Fleming <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of St.</hi> Michael.
+<list>
+                     <item>* Francis Scobell <hi>Eſq;</hi>
+                     </item>
+                     <item>Anthony Rowe <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Newport.
+<list>
+                     <item>* <hi>The Right Honorable</hi> Charles <hi>Lord</hi> Cheyne.</item>
+                     <item>John Speccot <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of St.</hi> Mawes.
+<list>
+                     <item>
+                        <hi>Sir</hi> Joſeph Tredenham <hi>Knt.</hi>
+                     </item>
+                     <item>Henry Seymour <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Kellington.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Coryton <hi>Bar.</hi>
+                     </item>
+                     <item>* Francis Fulford <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Cumberland 6.</head>
+               <item>
+                  <hi>Sir</hi> George Fletcher <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> John Lowther <hi>of</hi> White<g ref="char:EOLhyphen"/>haven <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Carliſle.
+<list>
+                     <item>Jeremiah Bubb <hi>Eſq;</hi>
+                     </item>
+                     <item>* Chriſtopher Muſgrave <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Cockermouth.
+<list>
+                     <item>* <hi>Sir</hi> Orlando Gee <hi>Knt.</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> Wilfrid Lawſon <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <!-- stopped here -->
+            <list>
+               <head>Derby 4.</head>
+               <item>
+                  <hi>Sir</hi> Gilbert Clarke <hi>Knt.</hi>
+               </item>
+               <item>* Henry Gilbert <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Town of</hi> Derby.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Anchitell Gray <hi>Eſq;</hi>
+                     </item>
+                     <item>* Robert Wilmot <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Devonſhire 26.</head>
+               <item>Francis Courtenay <hi>Eſq;</hi>
+               </item>
+               <item>Samuel Rolle <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Exeter.
+<list>
+                     <item>
+                        <hi>Sir</hi> Edward Seymour <hi>Bar.</hi>
+                     </item>
+                     <item>Chriſtopher Bale <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Totnes.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Fowell <hi>Bar.</hi>
+                     </item>
+                     <item>Henry Seymour <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Plymouth.
+<list>
+                     <item>
+                        <hi>The Right Honourable Sir</hi> John Maynard <hi>Knt.</hi>
+                     </item>
+                     <item>
+                        <hi>The Honourable</hi> John Green<g ref="char:EOLhyphen"/>ville <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Oakhampton.
+<list>
+                     <item>William Cary <hi>Eſq;</hi>
+                     </item>
+                     <item>Henry Nortleigh <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Barnſtable.
+<list>
+                     <item>* <hi>Sir</hi> George Hutchins <hi>Knt.</hi>
+                     </item>
+                     <item>* Arthur Champneys <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Plympton.
+<list>
+                     <item>* Richard Strode <hi>Eſq;</hi>
+                     </item>
+                     <item>* George Parker <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Honiton.
+<list>
+                     <item>* <hi>Sir</hi> Will. Drake <hi>Kt. and Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Walter Yonge <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Taviſtock.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Robert Ruſſel <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Francis Drake <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <!-- stopped here -->
+               <item>
+                  <hi>Borough of</hi> Aſhburton.
+<list>
+                     <item>* <hi>Sir</hi> Richard Reynell <hi>Knt. and Bar.</hi>
+                     </item>
+                     <item>* William Stawell <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Clifton, Dartmouth, <hi>and</hi> Hardneſs.
+<list>
+                     <item>Joſeph Herne <hi>Eſq;</hi>
+                     </item>
+                     <item>William Hayne <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Berallton.
+<list>
+                     <item>
+                        <hi>Sir</hi> Francis Drake <hi>Bar.</hi>
+                     </item>
+                     <item>* John Swinſen <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Tiverton.
+<list>
+                     <item>Samuel Foote <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Bere <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Dorſetſhire 20.</head>
+               <item>Thomas Strangeways <hi>Eſq;</hi>
+               </item>
+               <item>Thomas Freke <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Town of</hi> Pool.
+<list>
+                     <item>
+                        <hi>Sir</hi> Nathaniel Nappier <hi>Knt. and Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Trenchard <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Dorcheſter.
+<list>
+                     <item>
+                        <hi>Sir</hi> Rob Nappier <hi>Knt. &amp; Bar.</hi>
+                     </item>
+                     <item>* James Gould <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Lime-Regis.
+<list>
+                     <item>* Henry Henley <hi>Eſq;</hi>
+                     </item>
+                     <item>John Burridge <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> VVeymouth.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Morton <hi>Bar.</hi>
+                     </item>
+                     <item>Michael Harvey <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Melcom Regis.
+<list>
+                     <item>Henry Henning <hi>Eſq;</hi>
+                     </item>
+                     <item>* Nicholas Gould <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Bridport.
+<list>
+                     <item>* John Michel <hi>Eſq;</hi>
+                     </item>
+                     <item>* Stephan Evance <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Shafton, <hi>alias</hi> Shaftsbury.
+<list>
+                     <item>
+                        <hi>Sir</hi> Matthew Andrews <hi>Knt.</hi>
+                     </item>
+                     <item>Edward Nicholas <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> VVareham.
+<list>
+                     <item>Thomas Erle <hi>Eſq;</hi>
+                     </item>
+                     <item>William Okeden <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Corf-Caſtle.
+<list>
+                     <item>Richard Fownes <hi>Eſq;</hi>
+                     </item>
+                     <item>* VVilliam Culliford <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Durham 4.</head>
+               <item>* <hi>Sir</hi> Robert Eden <hi>Bar.</hi>
+               </item>
+               <item>VVilliam Lambton <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Durham.
+<list>
+                     <item>* VVilliam Tempeſt <hi>Eſq;</hi>
+                     </item>
+                     <item>George Morland <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Eſſex 8.</head>
+               <item>Henry Mildmay <hi>Eſq;</hi>
+               </item>
+               <item>* <hi>Sir</hi> Francis Maſham <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Colcheſter.
+<list>
+                     <item>Samuel Reynolds <hi>Eſq;</hi>
+                     </item>
+                     <item>* Edward Cary <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Maldon.
+<list>
+                     <item>
+                        <hi>Sir</hi> Thomas Darcy <hi>Bar.</hi>
+                     </item>
+                     <item>Charles Mountague <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Harwich.
+<list>
+                     <item>* <hi>The Right Honorable</hi> Charles <hi>Lord</hi> Cheyne.</item>
+                     <item>
+                        <hi>Sir</hi> Thomas Middleton <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Glouceſterſhire 8.</head>
+               <item>
+                  <hi>Sir</hi> John Guiſe <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Ralph Dutton <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Glouceſter.
+<list>
+                     <item>William Cooke <hi>Eſq;</hi>
+                     </item>
+                     <item>* William Try <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Cirenceſter
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> Henry Powle <hi>Eſq;</hi>
+                     </item>
+                     <item>* Richard Howe <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Tewksbury.
+<list>
+                     <item>Richard Dowdeſwell <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>The Right Honourable Sir</hi> Henry Capell <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Herefordſhire 8.</head>
+               <item>
+                  <hi>Sir</hi> John Morgan <hi>Bar.</hi>
+               </item>
+               <item>* <hi>Sir</hi> Herbert Croft <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Hereford.
+<list>
+                     <item>Paul Foley <hi>Eſq;</hi>
+                     </item>
+                     <item>Henry Cornwall <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Lempſter.
+<list>
+                     <item>Thomas Conyngesby <hi>Eſq;</hi>
+                     </item>
+                     <item>John Dutton Colt <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> VVeobly.
+<list>
+                     <item>John Birch <hi>Eſq;</hi>
+                     </item>
+                     <item>* Robert Price <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Hertfordſhire 6.</head>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Thomas Pope Blount <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Charles Ceſar <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Thomas Pope Blount <hi>Bar.</hi>
+                     </item>
+                     <item>Ralph Freeman <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of St.</hi> Albans.
+<list>
+                     <item>
+                        <hi>Sir</hi> Samuel Grimſton <hi>Bar.</hi>
+                     </item>
+                     <item>George Churchill <hi>Eſq; </hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Hertford.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Cowper <hi>Bar.</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> William Leman <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Huntingtonſhire 4.</head>
+               <item>
+                  <hi>The Honourable</hi> Robert Moun<g ref="char:EOLhyphen"/>tague <hi>Eſq;</hi>
+               </item>
+               <item>* John Driden <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Huntington.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Sidney Wort<g ref="char:EOLhyphen"/>ly, <hi>alias</hi> Mountague <hi>Eſq;</hi>
+                     </item>
+                     <item>* <hi>The Honourable</hi> Rich. Moun<g ref="char:EOLhyphen"/>tague <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Kent 10.</head>
+               <item>
+                  <hi>The Honourable Sir</hi> Vere Fane <hi>Knight of the</hi> Bath.</item>
+               <item>
+                  <hi>Sir</hi> John Knatchbull <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Canterbury.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Honywood <hi>Bar.</hi>
+                     </item>
+                     <item>Henry Lee <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>City of</hi> Rocheſter.
+<list>
+                     <item>* <hi>Sir</hi> Joſeph Williamſon <hi>Knt.</hi>
+                     </item>
+                     <item>* Francis Clarke <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Maidſton.
+<list>
+                     <item>
+                        <hi>Sir</hi> Thomas Taylor <hi>Bar.</hi>
+                     </item>
+                     <item>* Thomas Ryder <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Quinborough.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Bankes <hi>Bar.</hi>
+                     </item>
+                     <item>Robert Crawford <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Lancaſhire 4.</head>
+               <item>
+                  <hi>The Right Honourable</hi> Charles <hi>Lord</hi> Brandom Gerrard.</item>
+               <item>* <hi>The Honourable</hi> James Stan<g ref="char:EOLhyphen"/>ley.</item>
+               <item>
+                  <hi>Borough of</hi> Lancaſter.
+<list>
+                     <item>* Roger Kirby <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Preſton <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Preſton <hi>in</hi> Amoun<g ref="char:EOLhyphen"/>derneſs.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> Robert <hi>Ld.</hi> Willoughby <hi>of</hi> Eresby.</item>
+                     <item>Chriſtopher Greenfeild <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Newton.
+<list>
+                     <item>* <hi>The Honourable</hi> George Cholmondely <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Chichley <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Wiggan.
+<list>
+                     <item>* <hi>Sir</hi> Richard Standiſh <hi>Knt.</hi>
+                     </item>
+                     <item>* Peter Shakerly <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Clitheree.
+<list>
+                     <item>Anthony Parker <hi>Eſq;</hi>
+                     </item>
+                     <item>* Roger Kenyon <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Leverpool.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> Ri<g ref="char:EOLhyphen"/>chard <hi>Lord</hi> Colcheſter.</item>
+                     <item>Thomas Norris <hi>of</hi> Speak <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <!-- column 4 -->
+            <list>
+               <head>Leſceſſer 4.</head>
+               <item>
+                  <hi>The Right Honourable</hi> Bennet <hi>Lord</hi> Sherrard.</item>
+               <item>* <hi>Sir</hi> Tho. Heſilridge <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Leiceſten
+<list>
+                     <item>* <hi>Sir</hi> Edward Abney <hi>Knt.</hi>
+                     </item>
+                     <item>Lawrence Carter <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Lincoln 12.</head>
+               <item>
+                  <hi>The Right Honourable</hi> George <hi>Viſcount</hi> Caſtleton.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Huſſey <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Lincoln.
+<list>
+                     <item>* <hi>Sir</hi> John Bolles <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Edward Huſſey <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Boſton.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> Robert <hi>Ld.</hi> Willoughby <hi>of</hi> Eresby.</item>
+                     <item>
+                        <hi>Sir</hi> William Yorke <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Great Grimsby.
+<list>
+                     <item>
+                        <hi>Sir</hi> Edward Ayſcogh <hi>Knt.</hi>
+                     </item>
+                     <item>* John Chaplin <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Stamford.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Charles Ber<g ref="char:EOLhyphen"/>tie <hi>Eſq:</hi>
+                     </item>
+                     <item>William Hyde <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Grantham.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Brownlowe <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> William Ellis <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Middleſex 8.</head>
+               <item>
+                  <hi>Sir</hi> Charles Gerrard <hi>Bar.</hi>
+               </item>
+               <item>Ralph Hawtrey <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Weſtminſter.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Poultney <hi>Knt.</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> Walter Clarges <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>London.
+<list>
+                     <item>* <hi>Sir</hi> William Pritchard <hi>Knt.</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> Samuel Daſhwood <hi>Knt.</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> William Turnor <hi>Knt.</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> Thomas Vernon <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Monmouth 3.</head>
+               <item>
+                  <hi>The Right Honourable</hi> Charles <hi>Lord Marqueſs</hi> Worceſter.</item>
+               <item>Thomas Morgan <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Monmouth.
+<list>
+                     <item>* <hi>Sir</hi> Charles Kemeys <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Norfolk 12.</head>
+               <item>* <hi>Sir</hi> Jacob Aſtley <hi>Knight and Baronet.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> William Cooke <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Norwich.
+<list>
+                     <item>Thomas Blofeild <hi>Eſq;</hi>
+                     </item>
+                     <item>* Hugh Bokonham <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> 
+                  <unclear>Lyn-Regis</unclear>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> John Turner <hi>Knt.</hi>
+                     </item>
+                     <item>* Daniel Bedingfeild <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Great Yarmouth.
+<list>
+                     <item>George England <hi>Eſq;</hi>
+                     </item>
+                     <item>Samuel Fuller <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Thetford.
+<list>
+                     <item>
+                        <list>
+                           <item>
+                              <hi>The Right Honourable</hi> Wil<g ref="char:EOLhyphen"/>liam Harbord <hi>Eſq;</hi>
+                           </item>
+                           <item>
+                              <hi>Sir</hi> Francis Guybon <hi>Knt.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>* <hi>Sir</hi> Joſeph Williamſon <hi>Knt.</hi>
+                           </item>
+                           <item>* Adam Felton <hi>Eſq;</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Caſtleriſling.
+<list>
+                     <item>
+                        <hi>The Right Honourable Sir</hi> Ro<g ref="char:EOLhyphen"/>bert Howard <hi>Knt.</hi>
+                     </item>
+                     <item>Robert Walpole <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Northampton 9.</head>
+               <item>
+                  <hi>Sir</hi> St. Andrew St. John <hi>Bar.</hi>
+               </item>
+               <item>John Parkhurſt <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Peterborough.
+<list>
+                     <item>* William Brownlowe <hi>Eſq;</hi>
+                     </item>
+                     <item>Gilbert Dolben <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Northampton.
+<list>
+                     <item>
+                        <hi>Sir</hi> Thomas Samuel <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> William Langham <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Brackley.
+<list>
+                     <item>* <hi>The Honourable Sir</hi> William Egerton <hi>Knt. of the Bath.</hi>
+                     </item>
+                     <item>* John Blencowe <hi>Sergeant at Law.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Higham Ferrers.
+<list>
+                     <item>Thomas Andrews <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Northumberland 8</head>
+               <item>William Forſter <hi>Eſq;</hi>
+               </item>
+               <item>Philip <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Town of</hi> Newcaſſtle <hi>upon</hi> Tine
+<list>
+                     <item>
+                        <hi>Sir</hi> Ralph Carr <hi>Knt.</hi>
+                     </item>
+                     <item>* William Carr <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Burough of</hi> Morpeth.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> Charles <hi>Lord</hi> Morpeth.</item>
+                     <item>Roger Fenwick <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Berwick <hi>upon</hi> Tweed.
+<list>
+                     <item>
+                        <hi>Sir</hi> Francis Blake <hi>Knt.</hi>
+                     </item>
+                     <item>* Samuel Ogle <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Nottingham 8.</head>
+               <item>
+                  <hi>Sir</hi> Scroop How <hi>Knt.</hi>
+               </item>
+               <item>William Sacheverel <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Town of</hi> Nottingham.
+<list>
+                     <item>* Charles Hutchinſon <hi>Eſq;</hi>
+                     </item>
+                     <item>* Richard Slater <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Eaſtretford.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Evelin Peir<g ref="char:EOLhyphen"/>pont <hi>Eſq;</hi>
+                     </item>
+                     <item>John Thornehagh <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Newark <hi>upon</hi> Trent.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> William <hi>Lord</hi> Eland.</item>
+                     <item>
+                        <hi>The Honourable</hi> Nicholas San<g ref="char:EOLhyphen"/>derſon <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <!-- column 5 -->
+            <list>
+               <head>Oxon 9.</head>
+               <item>
+                  <hi>The Right Honourable</hi> Moun<g ref="char:EOLhyphen"/>tague <hi>Lord</hi> Norreys.</item>
+               <item>
+                  <hi>Sir</hi> Robert Jenkinſon <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Univerſity of</hi> Oxon.
+<list>
+                     <item>
+                        <hi>The Honourable Heneage Finch Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Thomas Clarges <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>City of</hi> Oxon.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Henry Bertie <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Edward Norreys <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> New Woodſtock.
+<list>
+                     <item>
+                        <hi>Sir</hi> Thomas Littleton <hi>Bar.</hi>
+                     </item>
+                     <item>* Thomas Wheate <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Banbury.
+<list>
+                     <item>
+                        <hi>Sir</hi> Robert Daſhwood <hi>Knt. and Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Rutland 2.</head>
+               <item>
+                  <hi>Sir</hi> Thomas Mackworth <hi>Bar.</hi>
+               </item>
+               <item>Bennet Sherrard <hi>Eſq;</hi>
+               </item>
+            </list>
+            <list>
+               <head>Salop 12.</head>
+               <item>
+                  <hi>The Honourable</hi> Richard New<g ref="char:EOLhyphen"/>port <hi>Eſq;</hi>
+               </item>
+               <item>Edward Kynaſton of Oately <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Town of</hi> Salop.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Andrew New<g ref="char:EOLhyphen"/>port <hi>Eſq;</hi>
+                     </item>
+                     <item>* Richard Mitton <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Bruges, <hi>alias</hi> Bridgenorth.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Whitmore <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Edward Acton <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Ludlow.
+<list>
+                     <item>* Thomas Hanmer <hi>Eſq;</hi>
+                     </item>
+                     <item>* William Gower <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Wenlock.
+<list>
+                     <item>
+                        <hi>Sir</hi> Wilham Foreſter <hi>Knt.</hi>
+                     </item>
+                     <item>George Weld <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Biſhops-Caſtle.
+<list>
+                     <item>* William Oakeley <hi>Eſq;</hi>
+                     </item>
+                     <item>* Richacd Maſon <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Somerſet 18.</head>
+               <item>* <hi>Sir</hi> Edward Phillips <hi>Knt.</hi>
+               </item>
+               <item>Nathaniel Palmer <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Briſtol.
+<list>
+                     <item>
+                        <hi>Sir</hi> Richard Hart <hi>Knt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Knight <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>City of</hi> Bath.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> Maurice <hi>Viſcount</hi> Fitzharding.</item>
+                     <item>
+                        <hi>Sir</hi> William <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>City of</hi> Wells
+<list>
+                     <item>Edward Berkeley <hi>Eſq;</hi>
+                     </item>
+                     <item>* Hopton Wyndham <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Taunton.
+<list>
+                     <item>Sir William Portman <hi>Bar.</hi>
+                     </item>
+                     <item>* Edward Clarke <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Bridgwater.
+<list>
+                     <item>
+                        <hi>Sir</hi> Francis Warr <hi>Bar.</hi>
+                     </item>
+                     <item>Henry Bull <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Minhead.
+<list>
+                     <item>Francis Lutterel <hi>Eſq;</hi>
+                     </item>
+                     <item>Nathaniel Palmer <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Ilcheſter.
+<list>
+                     <item>
+                        <hi>Sir</hi> Edward Windham <hi>Bar.</hi>
+                     </item>
+                     <item>John Hunt <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Milborn-Port.
+<list>
+                     <item>* <hi>Sir</hi> Thomas Travell <hi>Knt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Charles Carteret <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Southampton 26.</head>
+               <item>
+                  <hi>The Right Honourable</hi> Charles <hi>Lord Marqueſs of</hi> Wincheſter.</item>
+               <item>Richard Norton <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Wincheſter.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> Wil<g ref="char:EOLhyphen"/>liam <hi>Lord</hi> Pawlett.</item>
+                     <item>* Frederick Tilney <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Southampton.
+<list>
+                     <item>
+                        <hi>Sir</hi> Charles Windham <hi>Knt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Benjamin Newland <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Town of</hi> Portſmouth.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Edward Ruſ<g ref="char:EOLhyphen"/>ſel <hi>Eſq;</hi>
+                     </item>
+                     <item>* Nicholas Hedger <hi>Alderman.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> 
+                  <unclear>Yarmouth</unclear>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> John Trevor <hi>Knt</hi>
+                     </item>
+                     <item>* Charles Dunc<gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> 
+                        <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Petersfield.
+<list>
+                     <item>Robert Michell <hi>Eſq;</hi>
+                     </item>
+                     <item>Richard Holt <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Newport, <hi>alias</hi> Medona.
+<list>
+                     <item>
+                        <hi>Sir</hi> Robert Holmes <hi>Knt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> William Stephens <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Stockbridge.
+<list>
+                     <item>* William Mountague <hi>Eſq;</hi>
+                     </item>
+                     <item>Richard Whithed <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Newtown.
+<list>
+                     <item>
+                        <hi>The Right Honorable</hi> Richard <hi>Earl of</hi> Ranelagh.</item>
+                     <item>Thomas Done <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Chriſt-Church.
+<list>
+                     <item>Francis Gwyn <hi>Eſq;</hi>
+                     </item>
+                     <item>William Ettrick <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Whitchurch.
+<list>
+                     <item>Henry Wallop <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>The Honorable</hi> James <gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>el <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Lim<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>on.
+<list>
+                     <item>John Burrard <hi>E<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>* Thomas D<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <!-- column 6 -->
+               <item>
+                  <hi>Borough of</hi> Andover.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Francis Paw<g ref="char:EOLhyphen"/>let <hi>of</hi> Amport <hi>Eſq;</hi>
+                     </item>
+                     <item>John Pollen <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Staffordſhire 10.</head>
+               <item>
+                  <hi>The Honourable</hi> John Grey <hi>Eſq;</hi>
+               </item>
+               <item>* Walter Chetwind <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Lichfield.
+<list>
+                     <item>Robert Burdett <hi>Eſq;</hi>
+                     </item>
+                     <item>* Richard Dyot <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Stafford.
+<list>
+                     <item>John Chetwind <hi>Eſq;</hi>
+                     </item>
+                     <item>* Jonathan Cope <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Newcaſtle <hi>under</hi> Line.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Leveſon Gower <hi>Bar.</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> Thomas Bellot <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Tamworth.
+<list>
+                     <item>* <hi>Sir</hi> Henry Gough <hi>Knt.</hi>
+                     </item>
+                     <item>* Michael Biddulph <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Suffolk 16.</head>
+               <item>* <hi>Sir</hi> Samuel Barnadiſton <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Gervas Elwes <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Ipſwich.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Barker <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Charles Blois <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Dunwich.
+<list>
+                     <item>
+                        <hi>Sir</hi> Robert Rich <hi>Knt. &amp; Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Philip Skippon <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Orford.
+<list>
+                     <item>Thomas Glemham <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Felton <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Alborough.
+<list>
+                     <item>
+                        <hi>Sir</hi> Henry Johnſon <hi>Knt.</hi>
+                     </item>
+                     <item>William Johnſon <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Sudbury.
+<list>
+                     <item>Philip Guidon <hi>Eſq;</hi>
+                     </item>
+                     <item>* John Robinſon <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Eye.
+<list>
+                     <item>Henry Poley <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Davenant <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> S. Edmondsbury.
+<list>
+                     <item>
+                        <hi>Sir</hi> Robert Davers <hi>Bar.</hi>
+                     </item>
+                     <item>* Henry Goldwell <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Surrey 14.</head>
+               <item>
+                  <hi>Sir</hi> Richard Onſlow <hi>Bar.</hi>
+               </item>
+               <item>* <hi>Sir</hi> Francis Vincent <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Southwark.
+<list>
+                     <item>* Anthony Bowyer <hi>Eſq;</hi>
+                     </item>
+                     <item>John Arnold <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Blechingly.
+<list>
+                     <item>Thomas Howard <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Robert <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Ryegate.
+<list>
+                     <item>* <hi>Sir</hi> John Parſons <hi>Knt.</hi>
+                     </item>
+                     <item>* John Parſons <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Guilford.
+<list>
+                     <item>* Morgan Randyll <hi>Eſq;</hi>
+                     </item>
+                     <item>Foot Onſlow <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Gatton.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Thompſon <hi>Bar.</hi>
+                     </item>
+                     <item>Thomas Turgis <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Haſlemere.
+<list>
+                     <item>* Geo. Rodeney Bridges <hi>Eſq;</hi>
+                     </item>
+                     <item>Denzill Onſlow <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Suſſex 20.</head>
+               <item>
+                  <hi>Sir</hi> John Pelham <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> William Thomas <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Chicheſter.
+<list>
+                     <item>
+                        <hi>Sir</hi> Thomas Miller <hi>Knt.</hi>
+                     </item>
+                     <item>Thomas May <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Horſham.
+<list>
+                     <item>John Machell <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas White <hi>Jun. Gent.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Midhurſt.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Morley <hi>Knight of the</hi> Bath.</item>
+                     <item>John Lewkner <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Lewes.
+<list>
+                     <item>Thomas Pelham <hi>Eſq;</hi>
+                     </item>
+                     <item>Richard Bridger <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Shoreham.
+<list>
+                     <item>
+                        <hi>Sir</hi> Edward Hungerford <hi>Knt. of the</hi> Bath.</item>
+                     <item>* John Pery <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Bramber.
+<list>
+                     <item>* Nicholas Barbon <hi>Eſq;</hi>
+                     </item>
+                     <item>* <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Steyning.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Fagge <hi>Bar.</hi>
+                     </item>
+                     <item>* Robert Fagge <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Eaſt-Grinſted.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Tho. Sack<g ref="char:EOLhyphen"/>vile <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Thomas Dyke <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Arundel
+<list>
+                     <item>William Morley <hi>Eſq;</hi>
+                     </item>
+                     <item>* James Butler <hi>Eſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Warwicks;hire 6.</head>
+               <item>* William B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ley <hi>Eſq;</hi>
+               </item>
+               <item>* Andrew <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cher <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>C<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> of</hi> Coventry.
+<list>
+                     <item>* Rich<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> Hopkins <hi>Eſq;</hi>
+                     </item>
+                     <item>Joh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>atford <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Warwick.
+<list>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> Right Honourable</hi> Wil<g ref="char:EOLhyphen"/>liam <hi>Lord</hi> Digby.</item>
+                     <item>* William Colemore <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Weſtmorland 4.</head>
+               <item>
+                  <hi>The Right Honourable Sir</hi> John Lowther, <hi>of</hi> Lowther, <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Chriſtopher Muſgrave, <hi>of</hi> Muſgrave, <hi>Knt. &amp; Bar.</hi>
+               </item>
+               <!-- column 7 -->
+               <item>
+                  <hi>Borough of</hi> Apulby.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> William Cheyne <hi>Eſq;</hi>
+                     </item>
+                     <item>* Charles Boyle <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Wiltſhire 34.</head>
+               <item>
+                  <hi>The Right Honourable</hi> Edward <hi>Viſcount</hi> Cornbury.</item>
+               <item>* <hi>Sir</hi> Walter St. John <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> New Sarum.
+<list>
+                     <item>Thomas Hoby <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Pitt <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Wilton.
+<list>
+                     <item>* <hi>Sir</hi> Richard Grubham How <hi>Knt. &amp; Bar.</hi>
+                     </item>
+                     <item>Thomas Wyndham <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Downton.
+<list>
+                     <item>
+                        <hi>Sir</hi> Charles Raleigh <hi>Knt.</hi>
+                     </item>
+                     <item>Maurice Bockland <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Hindon.
+<list>
+                     <item>Robert Hyde <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Chaffyn <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Weſtbury.
+<list>
+                     <item>
+                        <hi>The Honourable</hi> Peregrine Ber<g ref="char:EOLhyphen"/>tie <hi>Eſq;</hi>
+                     </item>
+                     <item>Richard Lewys <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Heytesbury.
+<list>
+                     <item>William Aſh <hi>Eſq;</hi>
+                     </item>
+                     <item>* William Trenchard <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Calne.
+<list>
+                     <item>Henry Baynton <hi>Eſq;</hi>
+                     </item>
+                     <item>Henry Chivers <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of the</hi> Devizes.
+<list>
+                     <item>* <hi>Sir</hi> Thomas Fowles <hi>Knt.</hi>
+                     </item>
+                     <item>Walter Grubb <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Chipenham.
+<list>
+                     <item>* Richard Kent <hi>Eſq;</hi>
+                     </item>
+                     <item>* Alexander Popham <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Malmesbury.
+<list>
+                     <item>* <hi>The Honourable</hi> Goodwin Wharton <hi>Eſq;</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> James Long <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Criclade.
+<list>
+                     <item>* Edmund Webb <hi>Eſq;</hi>
+                     </item>
+                     <item>Charles Fox <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Great Bedwin.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> An<g ref="char:EOLhyphen"/>thony <hi>Viſcount</hi> Falkland.</item>
+                     <item>* <hi>Sir</hi> Jonathan Raymond <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Ludgerſale.
+<list>
+                     <item>Thomas Neale <hi>Eſq;</hi>
+                     </item>
+                     <item>John Deane <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Old Sarum.
+<list>
+                     <item>
+                        <hi>Sir</hi> Thomas Mompeſſon <hi>Knt.</hi>
+                     </item>
+                     <item>William Harvey <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Wotten Baſſet.
+<list>
+                     <item>Henry St. John <hi>Eſq;</hi>
+                     </item>
+                     <item>John Wildman Jun. <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Marleborough.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Ernle <hi>Knt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> George Willoughby <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Worceſterſhire 9.</head>
+               <item>* <hi>Sir</hi> John Packington <hi>Knt.</hi>
+               </item>
+               <item>Thomas Foley <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> Worceſter.
+<list>
+                     <item>
+                        <hi>Sir</hi> John Somers <hi>Knt.</hi>
+                     </item>
+                     <item>William Bromley <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Droitwich.
+<list>
+                     <item>
+                        <hi>The Right Honourable</hi> Richard <hi>Earl of</hi> Bellemont.</item>
+                     <item>Philip Foley <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Eveſham.
+<list>
+                     <item>* <hi>Sir</hi> James Ruſhout <hi>Bar.</hi>
+                     </item>
+                     <item>* Edward Rudge <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Bewdley.
+<list>
+                     <item>Henry Herbert <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Yorkſhire 30.</head>
+               <item>
+                  <hi>The Right Honourable</hi> Thomas <hi>Lord</hi> Fairfax.</item>
+               <item>
+                  <hi>Sir</hi> John Kay <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>City of</hi> York.
+<list>
+                     <item>
+                        <list>
+                           <item>* Robert Walter <hi>Eſq;</hi>
+                           </item>
+                           <item>Henry Thompſon <hi>Eſq;</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+                           </item>
+                           <item>Edw. Thompſon <hi>Eſq;</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>To<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n of </hi> King<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+                  <list>
+                     <item>Jo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n Ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>chunk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                     <item>Charles Osborne <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Knaresborough.
+<list>
+                     <item>
+                        <list>
+                           <item>William Stockdale <hi>Eſq;</hi>
+                           </item>
+                           <item>Thomas Fawkes <hi>Eſq;</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>William Stockdale <hi>Eſq;</hi>
+                           </item>
+                           <item>* <hi>Sir</hi> Henry Slingesby <hi>Bar.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Scaresborough.
+<list>
+                     <item>William Thompſon <hi>Eſq;</hi>
+                     </item>
+                     <item>Francis Thompſon <hi>Eſq; </hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Rippon.
+<list>
+                     <item>* <hi>Sir</hi> Edmund Jenings <hi>Knt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Jonathan Jenings <hi>Knt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Richmond.
+<list>
+                     <item>* <hi>Sir</hi> Marke Milbanck <hi>Bar.</hi>
+                     </item>
+                     <item>* Theodore Bathurſt <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Heydon.
+<list>
+                     <item>Henry Guy <hi>Eſq;</hi>
+                     </item>
+                     <item>Matthew Appleyard <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Boroughbrigg.
+<list>
+                     <item>
+                        <hi>Sir</hi> Henry Goodrick <hi>Knight &amp; Baronet.</hi>
+                     </item>
+                     <item>Chiſtopher Vane <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <!-- column 8 -->
+               <item>
+                  <hi>Borough of</hi> Malton.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Strickland <hi>Bar.</hi>
+                     </item>
+                     <item>William Palmes <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Thriske.
+<list>
+                     <item>Thomas Frankland <hi>Eſq;</hi>
+                     </item>
+                     <item>Richard Staines <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Aldborough.
+<list>
+                     <item>
+                        <list>
+                           <item>
+                              <hi>Sir</hi> Mich. Wentworth <hi>Knt.</hi>
+                           </item>
+                           <item>Chriſtopher Tanckred <hi>Eſq;</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>* <hi>The Honourable</hi> Henry Boyle <hi>Eſq;</hi>
+                           </item>
+                           <item>* John Vandenbembdie <hi>Eſq;</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Beverley.
+<list>
+                     <item>
+                        <hi>Sir</hi> Michael Warton <hi>Knt.</hi>
+                     </item>
+                     <item>William Gee <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> North-Allerton.
+<list>
+                     <item>
+                        <hi>Sir</hi> William Robinſon <hi>Bar.</hi>
+                     </item>
+                     <item>Thomas Laſcells <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Borough of</hi> Pontefract.
+<list>
+                     <item>* <hi>The Honourable</hi> Henry Daw<g ref="char:EOLhyphen"/>ney <hi>Eſq;</hi>
+                     </item>
+                     <item>* <hi>Sir</hi> John Bland <hi>Bar.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <div n="cinq ports" type="part">
+               <head>BARONS of the Cinque-Ports (16.)</head>
+               <list>
+                  <item>
+                     <hi>Port of</hi> Haſtings.
+<list>
+                        <item>
+                           <hi>The Honourable</hi> John Beau<g ref="char:EOLhyphen"/>mont <hi>Eſq;</hi>
+                        </item>
+                        <item>* Peter Gott <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Winchelſea.
+<list>
+                        <item>Robert Auſten <hi>Eſq;</hi>
+                        </item>
+                        <item>Samuel Weſtern <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Rye.
+<list>
+                        <item>
+                           <hi>Sir</hi> John Auſten <hi>Bar.</hi>
+                        </item>
+                        <item>
+                           <hi>Sir</hi> John Darrel <hi>Knt.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Port of</hi> New Rumney.
+<list>
+                        <item>* <hi>Sir</hi> Charles Sidley.</item>
+                        <item>John Brewer <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Port of</hi> Hyeth.
+<list>
+                        <item>
+                           <hi>Sir</hi> Philip Butler <hi>Bar.</hi>
+                        </item>
+                        <item>* William Brockman <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Port of</hi> Dover.
+<list>
+                        <item>Thomas Papillon <hi>Eſq;</hi>
+                        </item>
+                        <item>James Chadwick <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Port of</hi> Sandwich.
+<list>
+                        <item>John Thurbarne <hi>Serjeant at Law.</hi>
+                        </item>
+                        <item>* Edward Brent <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Port of</hi> Seaford.
+<list>
+                        <item>William Campion <hi>Eſq;</hi>
+                        </item>
+                        <item>* Henry Pelham <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="Wales" type="part">
+               <head>WALES (24.)</head>
+               <list>
+                  <head>Angleſey 2.</head>
+                  <item>* The Right Honorable Richard <hi>Viſcount</hi> Bulkeley.</item>
+                  <item>
+                     <hi>Town of</hi> Bewmoris.
+<list>
+                        <item>* Thomas Bulkeley <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Brecon 2.</head>
+                  <item>
+                     <hi>Sir</hi> Rowland Gwyn <hi>Knt.</hi>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Brecon.
+<list>
+                        <item>* Jeoffrey Jefferys <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Cardigan 2.</head>
+                  <item>
+                     <hi>Town of</hi> Cardigan.
+<list>
+                        <item>Hector Philips <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Carmarthen 2.</head>
+                  <item>
+                     <hi>Sir</hi> Rice Rudd <hi>Bar.</hi>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Carmarthen.
+<list>
+                        <item>Richard Vaughan <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Carnarvan 2.</head>
+                  <item>
+                     <hi>Town of</hi> Carnarvan.</item>
+               </list>
+               <list>
+                  <head>Denby 2.</head>
+                  <item>
+                     <hi>Sir</hi> Richard Middleton B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Denbigh.
+<list>
+                        <item>Edward Brereton <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Flint 2.</head>
+                  <item>
+                     <hi>Sir</hi> Roger Puleſton <hi>Knt. </hi>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Flint
+<list>
+                        <item>* Thomas Whitle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Glamorgan 2</head>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> iff
+<list>
+                        <item>
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>anſell <hi>Eſq</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Merioneth</head>
+                  <item>
+                     <hi>Sir</hi> John Wynne <hi>Knt. &amp; Bar.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Montgomery 2.</head>
+                  <item>Edward Vaughan <hi>Eſq;</hi>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Montgomery.
+<list>
+                        <item>Charles Herbert <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Pembrook 3.</head>
+                  <item>
+                     <hi>Sir</hi> Hugh Owen <hi>Knt.</hi>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Haverford-weſt.
+<list>
+                        <item>
+                           <hi>Sir</hi> William Wogan <hi>Knt.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> Pembrook.
+<list>
+                        <item>Arthur Owen <hi>Eſq;</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Radnor 2.</head>
+                  <item>Richard Williams <hi>Eſq;</hi>
+                  </item>
+                  <item>
+                     <hi>Town of</hi> New Radnor.
+<list>
+                        <item>* <hi>Sir</hi> Standiſh Hartſtrong <hi>Knt.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>In the SAVOY</hi>: Printed by Edward Jones; and Sold <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Richard Baldwin</hi> in the <hi>Old-Bayly.</hi> MDCXC.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
